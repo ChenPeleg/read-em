@@ -1,7 +1,7 @@
 <!-- language: rtl -->
 <style> * {
         direction: rtl;
-        text-align: right;
+        /*text-align: right;*/
     }
 </style>
 ## המסמך הזה בעברית 
