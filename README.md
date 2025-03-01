@@ -1,3 +1,8 @@
+---
+layout: custom
+title: Custom Page
+---
+
 <style> * {direction: rtl;}</style>
 
 
