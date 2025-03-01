@@ -1,5 +1,9 @@
 <style> * {direction: rtl;}</style>
 
+
+<div class="special-class">
+זה משהו מיוחד
+</div>
 # קורס ריאקט חלק 1
 
 #  הקדמה
